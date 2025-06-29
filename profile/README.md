@@ -2,7 +2,7 @@
 
 ---
 > 경상남도 지역을 연고로 설립된 청소 업체의 공식 웹사이트
-직접 프로젝트의 기획 부터, 프론트엔드, 백엔드, 배포까지 전체 개발을 담당하였음.
+직접 프로젝트의 기획 부터, 프론트엔드, 백엔드, 배포까지 전체 과정정을 담당하였음.
 
 # 프로젝트 개요
 - ***프로젝트명*** : 경상남도 청소업체 은하수홈케어 홈페이지
@@ -21,8 +21,10 @@
 - Styled-Components + Tailwind CSS + SCSS
 
 ## Backend
-- SpringBoot + Mybatis + JPA
+- SpringBoot + Mybatis + JPA/Hibernate
 - Session + SpringBoot Security로 보안 설정
+- Java 17 + Spring Boot 3.2.1
+- Swagger를 통한 API 문서 구현
 
 ## Infra / DevOps
 - AWS EC2 (Ubuntu)
