@@ -1,3 +1,9 @@
+Milkyway Project
+우리는 청소업체 예약 플랫폼을 만들어 운영 중에 있습니다.
+🚀 React + Spring Boot 기반으로 개발 중입니다.
+실제 결과는 https://github.com/Mikyway-project 에 접속하면 확인 가능하며, 상단에 위 README.md 내용이 표시됩니다.
+
+
 # 🔗 프로젝트 링크 모음 (.github)
 
 이 저장소는 해당 프로젝트의 프론트엔드와 백엔드 저장소 링크를 안내합니다.
