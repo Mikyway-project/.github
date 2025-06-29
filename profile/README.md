@@ -1,12 +1,5 @@
-## Hi there 👋
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+# 경상남도 청소업체 은하수홈케어 웹사이트
+/**
+경상남도 지역을 연고로 설립된 청소 업체의 공식 웹사이트
+직접 프로젝트의 기획 부터, 프론트엔드, 백엔드, 배포까지 전체 개발을 담당하였음.
+**/
